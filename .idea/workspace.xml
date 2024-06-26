@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7335598-7832-42a4-b04a-63269102e93c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberTestNGSuiteRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDefinitions/ApiTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner/APITestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/API_Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/AutomationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/ConfigFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/CustomizedUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/PropertyFile.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/SmokeAPITestCases.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectCucumberState">
+    <option name="filterByTags" value="false" />
+    <option name="selection" value="" />
+  </component>
+  <component name="ProjectId" id="2iJ7Pnz4MKu8w3aTTipf7DXcQHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: SmokeAPITestCases.executor": "Run",
+    "Cucumber Java.Feature: SmokeTestCases.executor": "Run",
+    "Cucumber Java.Scenario: To verify API call functionality for Board , List and Card (1).executor": "Run",
+    "Cucumber Java.Scenario: To verify API call functionality for Board , List and Card.executor": "Run",
+    "Maven.TrelloTest [compile].executor": "Run",
+    "Maven.TrelloTest [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.APITestRunner.executor": "Debug",
+    "TestNG.C:/Users/Asus/RizkiAutomation/TrelloTest/cucumberTestNGSuiteRunner.xml.executor": "Run",
+    "TestNG.UITestRunner.executor": "Debug",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/RizkiAutomation/Clone SEIT"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\RizkiAutomation\TrelloTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Asus/RizkiAutomation/TrelloTest/cucumberTestNGSuiteRunner.xml">
+    <configuration name="Feature: SmokeAPITestCases" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureFiles/SmokeAPITestCases.feature" />
+      <option name="GLUE" value="stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TrelloTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SmokeAPITestCases" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: To verify API call functionality for Board , List and Card (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/FeatureFiles/SmokeAPITestCases.feature" />
+      <option name="GLUE" value="stepDefinations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TrelloTest" />
+      <option name="NAME_FILTER" value="^To verify API call functionality for Board \, List and Card$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^To verify API call functionality for Board \, List and Card$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: To verify API call functionality for Board , List and Card" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TrelloTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.APITestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Asus/RizkiAutomation/TrelloTest/cucumberTestNGSuiteRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TrelloTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/cucumberTestNGSuiteRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TrelloTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="TestRunner.UITestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Asus/RizkiAutomation/TrelloTest/cucumberTestNGSuiteRunner.xml" />
+        <item itemvalue="TestNG.UITestRunner" />
+        <item itemvalue="TestNG.APITestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: To verify API call functionality for Board , List and Card (1)" />
+        <item itemvalue="Cucumber Java.Feature: SmokeAPITestCases" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7335598-7832-42a4-b04a-63269102e93c" name="Changes" comment="" />
+      <created>1719196808781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719196808781</updated>
+    </task>
+    <servers />
+  </component>
+</project>
